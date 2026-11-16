@@ -1,0 +1,6 @@
+﻿.venv/
+__pycache__/
+*.pyc
+energy_results.csv
+*.png
+.env
